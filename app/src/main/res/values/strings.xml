@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent_Seno_28</string>
+    <string name="next">Next</string>
+    <string name="hello_seno">Hello, Seno!</string>
+    <string name="hello_senopati">Hello Senopati!</string>
+    <string name="howdy_seno">Howdy Seno!</string>
+    <string name="smk_telkom_puwokerto">SMK Telkom Puwokerto</string>
+    <string name="senopati_eka_sasura">Senopati Eka Sasura</string>
+    <string name="xi_rpl_4">XI RPL 4</string>
+</resources>
